@@ -1,4 +1,3 @@
-# TagCloudGenearator
 /**
  * Generate Tag Cloud Generator. The output file should be based on HTML format
  * and follow the tagcloud.css format. The number of words in the output is
